@@ -1,0 +1,6 @@
+model_checkpoint_path: "flowers_recognition_model_test-300"
+all_model_checkpoint_paths: "flowers_recognition_model_test-220"
+all_model_checkpoint_paths: "flowers_recognition_model_test-240"
+all_model_checkpoint_paths: "flowers_recognition_model_test-260"
+all_model_checkpoint_paths: "flowers_recognition_model_test-280"
+all_model_checkpoint_paths: "flowers_recognition_model_test-300"
